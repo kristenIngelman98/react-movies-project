@@ -1,0 +1,14 @@
+.search-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    justify-content: 'center';
+    margin-bottom: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.search-type-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
